@@ -23,4 +23,3 @@ and
 Deep Learning model got 89.93% 			(V6)
 
 Finally deep learning model ends up with 89.93% and loss rate is 26.69%
-
